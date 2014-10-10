@@ -7,7 +7,7 @@ Version: 0.5
 '''
 
 #========== BOT CONFIGURATION ==========#
-BOT_NAME	= 'Dev_Rater'
+BOT_NAME	= ''				# Enter bot's name
 PASSWORD	= getpass('Password: ')
 USER_AGENT	= 'YondaBot auto-mod for /r/Yonda. Author: D_Web'
 SUBREDDIT	= 'BotDevelopment'
